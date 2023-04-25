@@ -1,5 +1,6 @@
 import socket
 import os
+#Socketer 1.0.0
 class Socketer():
    #Socketer
  def __init__(self):
